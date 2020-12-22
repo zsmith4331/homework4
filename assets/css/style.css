@@ -1,0 +1,78 @@
+#highscore-link {
+    font-size: 28px;
+    color: blue
+}
+
+#time {
+    font-size: 28px
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+
+#startButton{
+    background-color: #228B22;
+    font-size: 28px;
+}
+
+.container {
+    text-align: center;
+}
+
+#message {
+    font-size: 24px;
+}
+
+h2 {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+#answers{
+    margin-top: 25px;
+}
+
+.button {
+    margin: 20px;
+}
+
+#answerOne{
+    background-color: #4169E1;
+}
+
+#answerTwo{
+    background-color: #778899;
+}
+
+#answerThree{
+    background-color: #4169E1;
+}
+
+#answerFour{
+    background-color: #778899;
+}
+
+#score{
+    margin: 15px 15px 15px 15px;
+}
+
+#input-field {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#go-back {
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: #3CB371;
+}
+
+#clear-highscores {
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: #DC143C;
+}

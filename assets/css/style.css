@@ -1,6 +1,6 @@
 #highscore-link {
     font-size: 28px;
-    color: blue
+    color: #0000ff
 }
 
 #time {
@@ -56,13 +56,9 @@ h2 {
     background-color: #778899;
 }
 
-#score{
-    margin: 15px 15px 15px 15px;
-}
-
 #input-field {
-    margin-right: 15px;
-    margin-left: 15px;
+    margin: 15px;
+    width: 40%;
 }
 
 #go-back {

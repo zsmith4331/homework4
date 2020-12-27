@@ -164,7 +164,7 @@ function gameOver() {
         highScoreText.name = inputTag.value.trim();
         highScoreText.newScore = secondsLeft + 1;
         storeScores(highScoreText);
-        window.location.href = "highScores.html";
+        window.location.href = "highscores.html";
     });
 }
 

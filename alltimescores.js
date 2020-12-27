@@ -1,4 +1,4 @@
-var highScoreList = document.querySelector("#highScores");
+var highScoreList = document.querySelector("#highscores");
 var backToGameButton = document.querySelector("#go-back");
 var clearHighScores = document.querySelector("#clear-highscores");
 
@@ -35,7 +35,7 @@ function renderScores() {
             var scoreCellNum = document.createTextNode(scoreListItem.newScore);
 
             tr.setAttribute("tr-index", i);
-            document.getElementById("highScores").appendChild(tr);
+            document.getElementById("highscores").appendChild(tr);
             tr.appendChild(nameCell);
             nameCell.appendChild(nameCellText);
             tr.appendChild(scoreCell);
